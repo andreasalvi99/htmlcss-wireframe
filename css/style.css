@@ -10,3 +10,23 @@
 header{
     border-bottom: 2px solid black;
 }
+
+.div-ext{
+   border: 2px solid black;
+   width: 400px;
+   margin-top: 10px;
+   margin-left: 60px;
+   min-height: 234px;
+}
+
+h2{
+    margin: 0;
+}
+
+p{
+    margin: 0;
+}
+
+.div-in{
+    padding: 20px;
+}
