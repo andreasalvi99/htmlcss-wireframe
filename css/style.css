@@ -17,6 +17,7 @@ header{
    margin-top: 10px;
    margin-left: 60px;
    min-height: 234px;
+   margin-bottom: 10px;
 }
 
 h2{
@@ -29,4 +30,20 @@ p{
 
 .div-in{
     padding: 20px;
+}
+
+h1{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+footer{
+    border-top: 2px solid black;
+}
+
+.p-footer{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 20px;
 }
